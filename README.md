@@ -13,7 +13,6 @@ This project implements a Lift Controller using Verilog HDL. It was developed as
 ## Tools Used
 - Verilog HDL
 - Icarus Verilog
-- GTKWave (if you used it to view waveforms)
+- GTKWave 
 
-## Author
-Komaladevi Arava
+
